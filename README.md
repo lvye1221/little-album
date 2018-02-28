@@ -1,6 +1,15 @@
 # little-album
 nodejs 写的-小小相册管理系统
 
+# 运行及访问 #
+
+```
+node app.js
+
+http://localhost:3000/
+```
+
+
 # 技术点
 
 ## express
